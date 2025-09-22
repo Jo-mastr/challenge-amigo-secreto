@@ -54,6 +54,8 @@ En este ejemplo, el amigo secreto es Juan.
 
 Clona este repositorio con el comando:
 
+git clone https://github.com/Jo-mastr/challenge-amigo-secreto.git
+
 Luego abre el archivo index.html en tu navegador.
 
 ---
