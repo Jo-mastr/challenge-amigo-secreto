@@ -39,10 +39,13 @@ Su objetvo principal es **practicar lógica de programción con javaScript**
 ## 🎬 Instrucciones
 
 1. Ingresar nombres en el campo de texto.
+![Instrución-1](assets/Instrucciones/Instruccion-1.png)
 2. Presionar **añadir** para guardarlos en una lista.
-4. Ver todos los nombres guardados.
-5. Presionar **Sortear amigo** para obtener el nombre del amigo secreto al azar.
-
+![Instrución-2](assets/Instrucciones/Instruccion-2.png)
+3. Ver todos los nombres guardados.
+![Instrución-3](assets/Instrucciones/Instruccion-3.png)
+4. Presionar **Sortear amigo** para obtener el nombre del amigo secreto al azar.
+![Instrución-4](assets/Instrucciones/Instruccion-4.png)
 En este ejemplo, el amigo secreto es Juan.
 
 ---
