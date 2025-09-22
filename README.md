@@ -57,13 +57,13 @@ Luego abre el archivo index.html en tu navegador.
 
 ## 🛠️ Tecnologías Utilizadas
 
-. HTML5
-. CSS
-. JavaScript
+- **HTML5**
+- **CSS**
+- **JavaScript**
 
 ---
 
 ## 👨‍💻 Personas Desarrolladoras del Proyecto
 
-. HTML y CSS: Alura Latam
-. JavaScript: Jorge Iturra 
+- **HTML y CSS: Alura Latam**
+- **JavaScript: Jorge Iturra** 
